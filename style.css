@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Edu+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+:root{
+--preto: #292f36ff;
+--ciano: #4ecdc4ff;
+--azul: #a9def9ff;
+--rosa: #ff99c8ff;  
+--texto:"Cardo", serif;
+--titulo:"Edu VIC WA NT Hand", cursive;
+}
+
+body{
+
+    background-color:var(--azul);
+    font-family: var(--titulo);
+}
