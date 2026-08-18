@@ -12,7 +12,6 @@
     margin: 0;
     padding: 0;
 }
-
 body{
     background-color:var(--amarelo);
     font-family: var(--titulo);
@@ -24,5 +23,8 @@ header{
    background-color: var(--rosa);
     text-align: center;
     padding: 20px;
-   color: var(--azul)
+   color: var(--preto)
+}
+.capa{
+    width:100% ;
 }
